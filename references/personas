@@ -1,0 +1,69 @@
+This comprehensive guide merges the provided documentation into a structured overview of Major Incident Management (MIM) and Technology Resilience personas. It categorizes stakeholders by their decision-making authority, roles, and organizational objectives.
+
+---
+
+# Major Incident Management & Technology Resilience Personas
+
+## 1. Decision-Makers (Economic Buyers)
+These individuals hold the ultimate authority during incidents and possess the budget to invest in resilience and recovery solutions.
+
+| Role | Common Job Titles | Key Objectives & Care About |
+| :--- | :--- | :--- |
+| **Major Incident Manager** | [cite_start]Incident Manager, Critical Incident Manager, Head of Incident Management [cite: 33-37] | [cite_start]Ultimate owner during an incident; makes critical decisions on response and resource allocation[cite: 3, 4]. |
+| **Executive IT Leadership** | [cite_start]CIO, CTO, COO, Head of IT, Head of Technology [cite: 94, 96] | [cite_start]Driving business objectives through IT strategy; reducing risk of failed transformations; ensuring ROI on tech investments[cite: 94]. |
+| **IT Operations Manager** | [cite_start]Director of IT Ops, Head of IT Infrastructure, Manager of IT Service Delivery [cite: 38-41] | [cite_start]Oversees infrastructure and team; makes decisions on system changes and resource deployment[cite: 5, 6]. |
+| **Service/Asset Owner** | [cite_start]Service Owner, Application Owner, Platform Owner [cite: 42-44] | [cite_start]Performance and availability of specific services; budget authority for related solutions[cite: 7, 8]. |
+| **Resilience & Continuity Leaders** | [cite_start]Chief Resilience Officer, Head of Tech Resilience, Head of Disaster Recovery [cite: 96] | [cite_start]Owns recovery disciplines; demonstrates resilience to internal/external parties; manages DR frameworks[cite: 96]. |
+| **Risk & Compliance** | [cite_start]Chief Risk Officer (CRO), Chief Compliance Officer, Head of Non-Financial Risk [cite: 97] | [cite_start]Mitigating regulatory threats; tracking risk remediation; ensuring organizational compliance (e.g., DORA)[cite: 97]. |
+
+---
+
+## 2. Influencers
+These personas provide technical expertise, process governance, or specialized support to guide the decision-making process.
+
+### Technical & Architecture Influencers
+* [cite_start]**Technical Leads/SMEs:** Systems Engineers, Network Engineers, DBAs, Cloud/Security Architects [cite: 51-57]. [cite_start]They influence troubleshooting, root cause analysis, and implementation[cite: 14, 15].
+* [cite_start]**Head of Engineering/SRE:** Oversees how engineering and IT teams work together; influences how applications are architected for resilience[cite: 97].
+
+### Process & Governance Influencers
+* [cite_start]**Problem Manager:** Focuses on root cause analysis (RCA) and long-term preventative measures[cite: 17, 65].
+* [cite_start]**Change Manager:** Assesses the impact of proposed changes to minimize disruption during resolution[cite: 18, 69].
+* [cite_start]**Head of Operational Resilience:** Manages remediation plans and reports on operational resilience status[cite: 96].
+
+### Communication & Security Influencers
+* [cite_start]**Communication Manager:** Shapes the incident narrative and manages stakeholder perceptions[cite: 16, 60].
+* [cite_start]**CISO / Head of Cyber Security:** Oversees protection of infrastructure and assets; manages responses to cyber incidents[cite: 97].
+* [cite_start]**Head of Security Operations:** Typically runs the Security Operations Center (SOC) and monitors the network for events[cite: 97].
+
+---
+
+## 3. Users (Tactical & Affected Parties)
+These individuals are the hands-on operators of MIM tools or those directly impacted by the service disruption.
+
+### IT Support & Operations
+* [cite_start]**Service Desk Technicians:** Help Desk Analysts, Service Desk Agents[cite: 73, 75]. [cite_start]They are the first point of contact, gathering information and escalating incidents[cite: 19, 20].
+* [cite_start]**IT Support Staff:** Systems/Network Administrators, Desktop Support, Field Technicians [cite: 78-82]. [cite_start]They implement fixes, perform diagnostics, and perform the hands-on resolution[cite: 21, 22].
+
+### Business Users
+* [cite_start]**End-Users:** Individuals or systems affected by the incident[cite: 23]. [cite_start]While not in the response team, they are the primary reason for the MIM process[cite: 24].
+* [cite_start]**Stakeholders:** Department Heads, Business Unit Managers, Project Managers [cite: 85-89]. [cite_start]They receive updates and make business decisions based on the incident’s impact[cite: 25, 26].
+
+---
+
+## 4. Key Challenges & Value Propositions
+
+| Persona Group | Primary Challenges | [cite_start]Cutover Value Proposition [cite: 94, 95] |
+| :--- | :--- | :--- |
+| **CIO / CTO** | [cite_start]Mitigating outages, regulatory requirements, and technical debt[cite: 94]. | [cite_start]Eliminating manual processes and codifying recovery plans with dynamic runbooks[cite: 94]. |
+| **Infrastructure / Ops** | [cite_start]Service management orchestration; monitoring for time-sensitive resolution[cite: 94]. | [cite_start]Automated communication paths and real-time visibility of execution analytics[cite: 94]. |
+| **Service Management** | [cite_start]Undefined processes; lack of consistency; too much change without governance[cite: 95]. | [cite_start]Visual representation of runbooks (node maps) and real-time status reporting[cite: 95]. |
+| **Resilience / DR** | [cite_start]Recovery plans are hard to maintain; complex regulatory audits[cite: 95]. | [cite_start]Ability to orchestrate thousands of people/runbooks and generate auto-audit trails[cite: 95]. |
+
+---
+
+## 5. Summary of Titles by Context
+The seniority and industry can shift the naming conventions of these roles:
+* [cite_start]**Seniority:** Titles often include "Senior," "Lead," or "Director" to reflect experience[cite: 91].
+* [cite_start]**Organizational Structure:** Small companies may combine roles (e.g., a "Systems Engineer" acting as a "Technical Lead"), while large firms have highly specialized titles like "VP Application Resiliency Testing"[cite: 92, 93, 97].
+
+**Would you like me to create a targeted outreach messaging template based on one of these specific personas?**
