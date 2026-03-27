@@ -379,7 +379,7 @@ Read these files for deeper detail when writing content:
 - `references/messaging.md` — Full Cutover Recover, Respond and AI positioning, key messages, and content angles.
 - `references/keywords.md` — Listing of keywords used in blogs for SEO
 - `references/persona.md` — Listing of varoius personas and what matters to them
-- `cutover-case-studies/*.md` — MD files of case studies highlighting the problem, solution and benefit
+- `references/cutover-case-studies/*.md` — MD files of case studies highlighting the problem, solution and benefit
 -   **Always read this file before writing any content that touches on differentiation or comparison.**
 
 ---
