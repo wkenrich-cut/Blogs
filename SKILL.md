@@ -302,19 +302,6 @@ Use when writing high-level content:
 
 ---
 
-# **What This Merge Fixes**
 
-This unified skill now:
-
-* Combines **SEO rigor** with **punchy storytelling**
-* Avoids robotic keyword stuffing
-* Keeps **Cutover’s bold voice intact**
-* Works across **all formats seamlessly**
-
----
-
-If you want, I can also:
-
-* Turn this into a **prompt template**
 * Build a **GPT agent using it**
 * Or test it by generating a real blog/post
