@@ -1,7 +1,3 @@
-Here’s a **clean, merged version** of both SKILL files — unified into a single, cohesive “Cutover Content & SEO Writing Skill.” I’ve removed duplication, aligned structure, and made sure both **thought leadership + SEO blog rigor** work together instead of conflicting.
-
----
-
 # **Cutover Content & SEO Writing Skill**
 
 ## **Purpose**
