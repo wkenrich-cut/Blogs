@@ -1,0 +1,238 @@
+# Cutover Tracked Keywords Reference
+
+Use this file to select primary and secondary keywords for blog posts. Keywords are grouped by category. Prioritize keywords with higher monthly search volume and no current ranking (blank rank = opportunity) or low rankings (rank > 20 = improvement opportunity).
+
+When the user provides a blog topic, suggest the most relevant primary keyword and a selection of secondary keywords from this list. Always check that the chosen primary keyword is not already well-ranked (rank ≤ 5) unless the brief specifically targets that URL for improvement.
+
+---
+
+## How to Use This File
+
+- **Primary keyword**: Choose 1 keyword with high search volume and weak/no current ranking for the target URL
+- **Secondary keywords**: Choose 3–8 related keywords from the same or adjacent categories, each to be used 1–2 times
+- **Internal links**: Use the "Current Ranking URL" column to identify existing Cutover pages to link to — these are pre-validated internal link destinations
+- **Opportunity keywords**: Marked with `[OPP]` — currently unranked (no rank listed) with decent search volume
+
+---
+
+## DRP (Disaster Recovery Plan)
+
+| Keyword | US Vol | US Rank | UK Vol | UK Rank | Ranking URL |
+|---|---|---|---|---|---|
+| drp | 9,900 | — | 1,900 | — | — |
+| disaster recovery plan | 3,600 | — | 1,000 | — | — |
+| disaster recovery plan template | 1,000 | — | 260 | — | /blog/steps-create-it-disaster-recovery-plan-template |
+| it disaster recovery plan | 880 | — | 210 | 30 | /blog/5-steps-to-executing-an-it-disaster-recovery-plan-that-actually-works |
+| what does drp mean | 590 | — | 70 | 22 | /blog/what-is-disaster-recovery-plan-protect-business |
+| what is drp | 590 | — | 110 | — | — |
+| disaster recovery plan example | 590 | — | 140 | — | /blog/steps-create-it-disaster-recovery-plan-template |
+| what is a disaster recovery plan | 320 | — | 140 | — | — |
+| disaster recovery plan steps | 210 | 28 | 30 | 17 | /blog/5-steps-to-executing-an-it-disaster-recovery-plan-that-actually-works |
+| disaster recovery plan checklist | 210 | — | 20 | — | — |
+| it disaster recovery plan template | 260 | — | 140 | — | /blog/steps-create-it-disaster-recovery-plan-template |
+| it disaster recovery planning | 140 | 60 | 20 | 31 | /it-disaster-recovery |
+| it dr plan | 50 | 57 | 70 | 32 | /blog/5-steps-to-executing-an-it-disaster-recovery-plan-that-actually-works |
+| it disaster recovery plan steps | 20 | 17 | 10 | 9 | /blog/5-steps-to-executing-an-it-disaster-recovery-plan-that-actually-works |
+| how to create a disaster recovery plan | 70 | — | 20 | — | /blog/steps-create-it-disaster-recovery-plan-template |
+| how to write a disaster recovery plan | 50 | — | 20 | — | /blog/steps-create-it-disaster-recovery-plan-template |
+| disaster recovery plan best practices | 20 | — | 20 | — | — |
+| importance of disaster recovery plan | 90 | — | 20 | — | — |
+| benefits of a disaster recovery plan | 50 | — | 20 | — | — |
+| drp strategy | 20 | — | 10 | 28 | /blog/what-is-disaster-recovery-plan-protect-business |
+| disaster recovery plan audit | 20 | — | 20 | — | — |
+| disaster recovery plan testing scenarios | 20 | 13 | 20 | 11 | /blog/it-disaster-recovery-testing-building-your-it-resilience |
+
+---
+
+## IT Disaster Recovery (IT DR)
+
+| Keyword | US Vol | US Rank | UK Vol | UK Rank | Ranking URL |
+|---|---|---|---|---|---|
+| cloud disaster recovery | 1,300 | — | 140 | — | — |
+| it disaster recovery | 1,000 | 19 | 210 | 24 | /blog/5-steps-to-executing-an-it-disaster-recovery-plan-that-actually-works |
+| backup and disaster recovery | 880 | — | 140 | — | — |
+| disaster recovery software | 720 | 36 | 30 | 15 | /it-disaster-recovery |
+| disaster recovery testing | 320 | 32 | 110 | 20 | /blog/it-disaster-recovery-testing-building-your-it-resilience |
+| disaster recovery strategy | 210 | 87 | 40 | 96 | /blog/5-steps-to-executing-an-it-disaster-recovery-plan-that-actually-works |
+| dr testing | 210 | — | 90 | 84 | /it-disaster-recovery |
+| it disaster recovery solutions | 210 | — | 30 | 39 | /it-disaster-recovery |
+| resilience testing | 170 | 36 | 70 | 29 | /blog/resilience-disaster-recovery |
+| disaster recovery best practices | 90 | — | 20 | — | — |
+| disaster recovery testing best practices | 50 | — | 20 | — | — |
+| disaster recovery exercise | 50 | — | 20 | — | — |
+| disaster recovery automation | 30 | 1 | 20 | 2 | /blog/disaster-recovery-automation-dr-strategy |
+| disaster recovery orchestration | 30 | 76 | 10 | 70 | /blog/disaster-recovery-automation-dr-strategy |
+| dr strategy | 110 | 47 | 20 | 18 | /blog/disaster-recovery-automation-dr-strategy |
+| it disaster recovery roles and responsibilities | 20 | 29 | 20 | 12 | /blog/it-disaster-recovery-teams-the-heroes-of-crisis-management |
+| disaster recovery testing process | 20 | 33 | 20 | 38 | /blog/it-disaster-recovery-testing-building-your-it-resilience |
+| it resilience | 140 | 19 | 40 | 13 | /blog/resilience-disaster-recovery |
+| disaster recovery vs resilience | 20 | 1 | 10 | 1 | /blog/resilience-disaster-recovery |
+| automated disaster recovery solutions | 20 | 10 | 10 | 5 | /blog/disaster-recovery-automation-dr-strategy |
+| disaster recovery orchestration tools | 20 | 28 | 0 | 15 | /blog/disaster-recovery-automation-dr-strategy |
+| rta disaster recovery | 20 | 8 | 20 | 1 | /blog/effectively-measure-recovery-time-actuals-in-cloud-disaster-recovery-plans |
+| disaster recovery in cloud computing | 170 | — | 40 | 23 | /blog/innovative-disaster-recovery-techniques-cloud-computing |
+| what is bare metal recovery | 110 | — | 320 | — | — |
+
+---
+
+## Runbooks
+
+| Keyword | US Vol | US Rank | UK Vol | UK Rank | Ranking URL |
+|---|---|---|---|---|---|
+| runbook | 3,600 | 5 | 590 | 8 | /blog/what-is-a-runbook |
+| run book | 1,000 | 5 | 260 | 6 | /blog/what-is-a-runbook |
+| runbooks | 1,000 | 6 | 210 | 6 | /blog/what-is-a-runbook |
+| what is a runbook | 720 | 3 | 170 | 3 | /blog/what-is-a-runbook |
+| runbook vs playbook | 590 | 8 | 110 | 9 | /blog/runbooks-vs-playbooks-comprehensive-overview |
+| runbook example | 260 | 14 | 50 | 12 | /blog/runbook-examples-it-disaster-recovery-cloud-migration-and-technology-implementation |
+| runbook meaning | 260 | 4 | 110 | 4 | /blog/what-is-a-runbook |
+| release runbook | 170 | 1 | 20 | 1 | /blog/what-is-a-runbook |
+| runbook automation | 170 | 19 | 20 | 16 | /blog/5-benefits-using-runbook-automation-it-operations |
+| runbook examples | 70 | 9 | 10 | 9 | /blog/runbook-examples-it-disaster-recovery-cloud-migration-and-technology-implementation |
+| it runbook | 70 | 3 | 20 | 3 | /blog/what-is-a-runbook |
+| it runbook template | 40 | 13 | 20 | 13 | /blog/runbook-templates-simplify-technology-operations-boost-productivity |
+| how to write a runbook | 40 | 29 | 20 | 21 | /blog/what-is-a-runbook |
+| disaster recovery runbook | 40 | 8 | 20 | 6 | /blog/runbook-examples-it-disaster-recovery-cloud-migration-and-technology-implementation |
+| dr runbook template | 20 | 7 | 20 | 6 | /blog/runbook-examples-it-disaster-recovery-cloud-migration-and-technology-implementation |
+| runbook automation tools | 30 | 20 | 20 | 16 | /blog/what-is-a-runbook |
+| runbook automation software | 20 | 19 | 10 | 13 | /runbook-technology |
+| automated runbooks | 10 | 9 | 0 | 7 | /blog/what-are-automated-runbooks |
+| difference between runbook and playbook | 20 | 8 | 20 | 9 | /blog/runbooks-vs-playbooks-comprehensive-overview |
+
+---
+
+## BCDR (Business Continuity & Disaster Recovery)
+
+| Keyword | US Vol | US Rank | UK Vol | UK Rank | Ranking URL |
+|---|---|---|---|---|---|
+| bcdr | 1,600 | 60 | 390 | 11 | /blog/what-is-bcdr-business-continuity-vs-disaster-recovery-plan |
+| business continuity and disaster recovery | 880 | — | 140 | — | — |
+| what is bcdr | 110 | 14 | 20 | 6 | /blog/what-is-bcdr-business-continuity-vs-disaster-recovery-plan |
+| business continuity plan vs disaster recovery plan | 260 | — | 40 | — | — |
+| bcdr plan steps | 10 | 28 | 0 | 15 | /blog/what-is-bcdr-business-continuity-vs-disaster-recovery-plan |
+
+---
+
+## Cyber Resilience & Cyber Recovery
+
+| Keyword | US Vol | US Rank | UK Vol | UK Rank | Ranking URL |
+|---|---|---|---|---|---|
+| cyber resilience | 1,600 | 39 | 480 | — | /blog/cyber-resilience-vs-cyber-recovery-whats-the-difference |
+| what is cyber resilience | 210 | 46 | 70 | 41 | /blog/cyber-resilience-vs-cyber-recovery-whats-the-difference |
+| cyber recovery | 140 | 18 | 40 | 13 | /cyber-recovery |
+| cyber security resilience | 140 | — | 30 | — | — |
+| what is cyber recovery | 20 | 11 | 20 | 4 | /blog/cyber-resilience-vs-cyber-recovery-whats-the-difference |
+| cyber recovery vs disaster recovery | 20 | 13 | 10 | 12 | /blog/cyber-resilience-vs-cyber-recovery-whats-the-difference |
+| cyber recovery plan | 20 | 36 | 20 | 24 | /blog/cyber-resilience-vs-cyber-recovery-whats-the-difference |
+| cyber recovery solution | 30 | 46 | 20 | 20 | /cyber-recovery |
+| rto cyber security | 320 | — | 20 | — | /blog/cyber-it-disaster-recovery-acronyms |
+| drp cyber security | 210 | — | 20 | 81 | /blog/what-is-disaster-recovery-plan-protect-business |
+| cyber attack recovery plan | 20 | — | 20 | — | /blog/cyber-insurer-cyber-recovery-plan |
+
+---
+
+## Regulation (DORA)
+
+| Keyword | US Vol | US Rank | UK Vol | UK Rank | Ranking URL |
+|---|---|---|---|---|---|
+| dora regulation | 210 | 13 | 1,300 | 15 | /blog/achieving-digital-operational-resilience-testing-compliance-dora-law |
+| dora framework | 110 | 10 | 90 | 9 | /blog/achieving-digital-operational-resilience-testing-compliance-dora-law |
+| dora act | 70 | 80 | 210 | 44 | /blog/achieving-digital-operational-resilience-testing-compliance-dora-law |
+| dora law | 50 | 14 | 20 | 10 | /blog/achieving-digital-operational-resilience-testing-compliance-dora-law |
+| dora pillars | 20 | 7 | 20 | 6 | /blog/achieving-digital-operational-resilience-testing-compliance-dora-law |
+| what is dora regulation | 20 | 11 | 40 | 14 | /blog/achieving-digital-operational-resilience-testing-compliance-dora-law |
+| dora requirements | 20 | 13 | 50 | 19 | /blog/achieving-digital-operational-resilience-testing-compliance-dora-law |
+| dora resilience | 20 | — | 50 | 73 | /blog/achieving-digital-operational-resilience-testing-compliance-dora-law |
+
+---
+
+## Failover & Failover Testing
+
+| Keyword | US Vol | US Rank | UK Vol | UK Rank | Ranking URL |
+|---|---|---|---|---|---|
+| failover | 1,900 | — | 480 | — | — |
+| failovers | 260 | — | 0 | 38 | /success-stories/cutover-runbooks-make-failovers-simple-reduce-post-event-review-from-hours-to-minutes |
+| failover testing | 170 | — | 70 | — | — |
+| data center failover | 30 | 66 | 20 | 75 | /success-stories/major-american-bank-orchestrates-largest-data-center-isolation-event |
+| failover vs disaster recovery | 30 | 28 | 20 | 24 | /blog/resilience-disaster-recovery |
+| data center failover testing | 20 | 22 | 10 | 23 | /success-stories/major-american-bank-orchestrates-largest-data-center-isolation-event |
+| what is failover testing | 30 | — | 20 | — | — |
+| dr failover testing | 20 | 96 | 20 | 96 | /it-disaster-recovery |
+
+---
+
+## Cloud DR & Cloud Resilience
+
+| Keyword | US Vol | US Rank | UK Vol | UK Rank | Ranking URL |
+|---|---|---|---|---|---|
+| cloud dr solutions | 140 | — | 20 | — | — |
+| cloud disaster recovery plan | 70 | — | 20 | — | — |
+| disaster recovery in the cloud | 390 | — | 10 | 91 | /cloud-disaster-recovery |
+| cloud disaster recovery best practices | 40 | — | 20 | — | — |
+| cloud disaster recovery strategy | 20 | — | 20 | 26 | /blog/innovative-disaster-recovery-techniques-cloud-computing |
+| disaster recovery in cloud computing | 170 | — | 40 | 23 | /blog/innovative-disaster-recovery-techniques-cloud-computing |
+
+---
+
+## RTO / RPO
+
+| Keyword | US Vol | US Rank | UK Vol | UK Rank | Ranking URL |
+|---|---|---|---|---|---|
+| rto disaster recovery | 210 | — | 30 | — | — |
+| disaster recovery rto rpo | 110 | — | 20 | — | — |
+| rpo and rto disaster recovery | 40 | — | 20 | — | — |
+| rta disaster recovery | 20 | 8 | 20 | 1 | /blog/effectively-measure-recovery-time-actuals-in-cloud-disaster-recovery-plans |
+
+---
+
+## Application Release & Orchestration
+
+| Keyword | US Vol | US Rank | UK Vol | UK Rank | Ranking URL |
+|---|---|---|---|---|---|
+| application release automation | 110 | — | 20 | — | /release-management |
+| application release orchestration | 30 | 61 | 20 | 66 | /release-management |
+| it orchestration | 110 | — | 20 | — | — |
+
+---
+
+## Data Center Migration
+
+| Keyword | US Vol | US Rank | UK Vol | UK Rank | Ranking URL |
+|---|---|---|---|---|---|
+| data center migration challenges | 30 | — | 10 | — | — |
+| data center migration risks | 30 | — | 20 | — | — |
+| data center migration testing | 20 | — | 10 | — | — |
+
+---
+
+## Key Internal Link Destinations
+
+Use these validated cutover.com URLs as internal links in blog posts:
+
+| URL | Topic |
+|---|---|
+| /blog/what-is-a-runbook | Runbooks explainer |
+| /blog/runbooks-vs-playbooks-comprehensive-overview | Runbook vs playbook |
+| /blog/runbook-examples-it-disaster-recovery-cloud-migration-and-technology-implementation | Runbook examples |
+| /blog/runbook-templates-simplify-technology-operations-boost-productivity | Runbook templates |
+| /blog/5-steps-to-executing-an-it-disaster-recovery-plan-that-actually-works | IT DR plan steps |
+| /blog/steps-create-it-disaster-recovery-plan-template | DR plan template |
+| /blog/what-is-disaster-recovery-plan-protect-business | What is a DRP |
+| /blog/what-is-bcdr-business-continuity-vs-disaster-recovery-plan | What is BCDR |
+| /blog/it-disaster-recovery-testing-building-your-it-resilience | DR testing |
+| /blog/resilience-disaster-recovery | Resilience vs DR |
+| /blog/disaster-recovery-automation-dr-strategy | DR automation |
+| /blog/cyber-resilience-vs-cyber-recovery-whats-the-difference | Cyber resilience vs recovery |
+| /blog/achieving-digital-operational-resilience-testing-compliance-dora-law | DORA regulation |
+| /blog/cyber-it-disaster-recovery-acronyms | Cyber/IT DR acronyms |
+| /blog/it-disaster-recovery-teams-the-heroes-of-crisis-management | IT DR teams |
+| /blog/effectively-measure-recovery-time-actuals-in-cloud-disaster-recovery-plans | RTA measurement |
+| /blog/innovative-disaster-recovery-techniques-cloud-computing | Cloud DR techniques |
+| /it-disaster-recovery | IT DR product page |
+| /cyber-recovery | Cyber recovery product page |
+| /cloud-disaster-recovery | Cloud DR product page |
+| /release-management | Release management product page |
+| /runbook-technology | Runbook technology product page |
+| /success-stories/major-american-bank-orchestrates-largest-data-center-isolation-event | Bank data center case study |
+| /success-stories/american-investment-bank-operational-resilience | Investment bank case study |
+| /success-stories/cutover-runbooks-make-failovers-simple-reduce-post-event-review-from-hours-to-minutes | Failover case study |
