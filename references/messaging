@@ -1,0 +1,219 @@
+# Cutover Messaging Frameworks Reference
+
+Use this file to ensure blog content aligns with approved Cutover messaging. Pull value statements, proof points, pain points, and product positioning directly from here rather than inventing them. Always match the language precisely — these are the approved words.
+
+---
+
+## Platform Positioning (Current / Evolving)
+
+### Hero Statements (use these for H1s, intros, and CTAs)
+
+**Casual / punchy:**
+> Outages happen. Chaos doesn't have to.
+
+**Competitive:**
+> Don't just fight fires. Orchestrate resilience.
+
+**Platform descriptor options:**
+- Orchestrate people, agents, and automation in real time to execute complex IT operations with precision, at scale
+- Enterprise tech ops orchestration platform
+- AI-powered runbook platform
+- Dynamic, automated runbook platform
+
+### Solution Positioning Statement (March 2026 Draft)
+> Cutover's platform orchestrates people, AI agents, and automation in real time to execute complex IT operations with precision, and at scale. By replacing manual effort with intelligent runbooks, Cutover eliminates risk and cost from mission-critical operations, including incident management and IT disaster recovery.
+
+### Three Platform Pillars (2026)
+| Pillar | Value |
+|---|---|
+| Executable orchestration | A dynamic execution engine that replaces manual effort with intelligent runbooks. Orchestrates people, AI agents, and automated scripts and integrations in real time. |
+| Agentic AI with control | Integrates autonomous agents to accelerate incident response through governed, intelligent control. Reduces cognitive load and toil. |
+| Resilience at scale | Confidently recover, release, and respond across hundreds of applications and thousands of users simultaneously. Trusted by the world's most complex organizations. |
+
+### Older Positioning (still valid for SEO / evergreen content)
+> Cutover's Collaborative Automation SaaS platform enables you to standardize and automate your technology operations processes such as IT and cyber disaster recovery, release management, and cloud migration with automated runbooks. Take the risk and cost out of your IT operations by enabling better collaboration between teams and automation.
+
+---
+
+## Target Personas
+- **Head of Resilience**
+- **Head of Infrastructure & Operations**
+- **CISO / SOC Lead or Director**
+- **Head of Service Management** (for Respond/AI content)
+- **C-Suite / CIO** (for executive-level content)
+
+**Current solutions they use:** Multiple disparate systems, ITSM and/or BCM platforms, spreadsheets, project management software
+
+**Triggering events:**
+- Regulatory requirements
+- Announced and unannounced tests/rehearsals
+- Recovering from a cyber attack or incident, IT outage, or disaster
+- App/network health checks
+- Ransomware attacks (requires recovery)
+
+---
+
+## IT Disaster Recovery Messaging
+
+### Pain Points
+- Lack of confidence in the ability to recover from a major incident and meet application/service RTOs
+- Time-consuming and ineffective testing that doesn't reflect real incidents
+- Complex regulatory compliance reporting — manually intensive and error prone
+- Disjointed processes and high risk of human error from manual-intensive recovery methods
+- Isolated and siloed DevOps, SRE, and tech operations teams
+
+### Value Props / Benefits
+- Gain confidence and recover faster with automated runbooks — regardless of application deployment (cloud native, hybrid, multi-cloud)
+- Create repeatable recovery plans for announced and unannounced testing with templated runbooks
+- Ensure governance, simplify regulatory reporting, and demonstrate controls with the auto-generated audit log
+- Automate and streamline recovery processes to increase efficiency and reduce human error
+- Single source of execution and visibility for recovery across siloed teams with integrations to Slack, MS Teams, Zoom
+
+### Proof Points
+- 50% reduction in execution time
+- 70% less manual effort and time in test preparation and execution
+- Reduce testing time from 12 weeks to 2
+- 60% increase in audit efficiency
+- 300% improvement in resilience efficiency
+
+---
+
+## Cyber Recovery Messaging
+
+### Pain Points
+- Cyber attacks are more complex and unpredictable than traditional ITDR outages
+- Difficult to know if the traditional failover site has been affected or the degree of infection/blast radius
+- Lack of board and business confidence in the ability to recover quickly
+- Difficult to test cyber recovery without taking down production applications
+- Complex and time-consuming regulatory compliance reporting
+- Disjointed processes leading to human error
+- Isolated and siloed teams (DevOps, SREs, Tech Ops)
+- High availability architectures (containers, microservices) increase complexity
+
+### Value Props / Benefits
+- Reduce complexity and unpredictability with the Cutover platform — combine human decision making and automated tasks
+- Gain confidence with dynamic runbooks that bring order to the chaos
+- Simplify testing and create repeatable, templated runbooks from well-defined recovery plans
+- Auto-generated audit log simplifies regulatory reporting
+- Real-time dashboards provide stakeholders instant visibility to recovery progress
+- Dynamic runbooks and built-in logic enable orchestration to adapt as new information comes to light
+
+### Proof Points
+- 50% reduction in execution time
+- 70% less time in test preparation and execution
+- 60% increase in audit efficiency
+- 300% improvement in resilience efficiency
+- 309% ROI on average for Cutover customers
+
+---
+
+## Cutover Resilience Messaging (Broader)
+
+### Value Statements
+- **Rehearse and recover from total or partial loss** — perform large-scale testing or test specific business applications with repeatable runbooks all in one place
+- **Achieve OPEX savings** — reduce event planning and execution by up to 80%; eliminate configuration drift with real-time visibility
+- **Gain financial services regulatory compliance** — meet existing and upcoming financial services regulatory requirements with executable runbooks, immutable audit trail, and real-time reporting
+- **Connect teams and technology** — take the risk and cost out of SRE and Tech Ops; keep stakeholders and DR teams in sync
+
+### Use Cases
+1. Major incident management
+2. IT disaster recovery
+3. Cloud disaster recovery
+4. Cyber resilience
+5. IT system health checks
+
+### Key Features
+| Feature | Key Attributes |
+|---|---|
+| Dynamic, Automated Runbooks | Library of templated runbooks; one centralized workspace; ability to link runbooks; node map for dependencies; automated recovery platform integrating across the recovery stack |
+| Reporting, Analytics, Dashboards & Audit Log | Indelible audit trails; real-time dashboards; post-analysis dashboard; automated post-incident review; comprehensive labelled data |
+| Integration Suite | Pre-built integrations (outbound API); custom integration (outbound API); Developer Portal (inbound API) |
+
+### Words to Avoid (Resilience)
+- Cloud/IT DR: Data Backup; DR as a Service; SOAP; hyperautomation; Intelligent Automation; Operational Resilience; Business Continuity
+- Cyber Resilience: Cybersecurity (protect against/avoid threats); penetration testing; Incident response (system); SOAR; SIEM
+- System Health: "health checks"
+
+---
+
+## Cutover AI Messaging
+
+### Product Positioning
+> Cutover AI bridges the gap between AI intent and enterprise execution. Transform static documents into dynamic runbooks in seconds, and leverage real-time context to navigate high-stakes technology events. Reduce cognitive load, eliminate manual toil, and recover faster with governed, agentic control.
+
+### Value Statements
+- Reduce the time it takes to create, improve, and summarize runbooks
+- Create runbooks in tens of seconds, not hours or days
+- Generate suggested runbook summaries in seconds
+- Optimize runbooks with suggested improvements based on existing data
+
+### Features
+| Feature | Value |
+|---|---|
+| AI Create | Generate runbooks in seconds from virtually any static plan — flow charts, documents, spreadsheets, and images. Builds a complete runbook with tasks, dependencies, and descriptions |
+| AI Assistant | Conversational operational expert providing instant clarity through natural language interactions. Synthesizes complex runbook data into concise summaries, identifies execution risks |
+
+---
+
+## Cutover Respond Messaging
+
+### Solution Positioning
+> Cutover Respond offers a solution to streamline and enable automation and AI agents for the entire incident management lifecycle. Through automated workflows, a task-based model, AI agent integration, centralized communication, and real-time visibility, Respond facilitates a faster and more coordinated approach, ultimately reducing mean time to resolution (MTTR).
+
+### Overarching Value Proposition
+**Cutover Respond helps you meaningfully reduce MTTR.**
+
+### Five Value Pillars
+| Pillar | What it means |
+|---|---|
+| Rapid mobilization | Rapid, automated team mobilization reduces time to engage Resolvers. Removes manual effort in determining who is involved. MIMs focus on directing the response, not admin work |
+| Seamless visibility and tracking of work (task-based model) | Real-time task tracking outside of chat keeps everyone aligned and accountable. Reduces missed steps and errors, especially under stress |
+| Self-serve stakeholder visibility and comms (without interrupting the technical team) | Self-serve, real-time updates cut down on interruptions. Shared visibility builds trust and keeps all parties aligned without extra effort from the MIM or resolvers |
+| Less toil and quicker resolution through AI agents and automation | Superior automation handles routine tasks freeing teams to focus on high-value work. AI agents surface actionable insights for human-in-the-loop interpretation |
+| Automated post-incident review and comprehensive labelled data for learning | Automatic capture of entire incident data. Simplified report generation and auditing saves hours post-incident |
+
+### Pain Points Addressed
+- "It takes too long to find and reach the right people."
+- "We lose track of who's doing what under pressure in the chat channels."
+- "I get bombarded with status requests when I'm trying to manage the incident."
+- "Too much of my time is spent on repetitive tasks that could be automated."
+- "Post-mortems take forever to write up."
+- "We keep making the same mistakes because lessons learned don't get shared or actioned."
+
+### Target Personas for Respond
+- People who own ITIL processes of Incident, Problem, and Change
+- Major Incident Managers (MIMs)
+- Resolvers
+- Executives / CIO
+- **Primary verticals:** FSIs and other verticals that use ServiceNow SOW+MIM
+
+### Competitive Context (Respond)
+- Primary competitor: ServiceNow Service Operations Workspace and MIM Module
+
+---
+
+## Functional Benefits Summary
+
+| Benefit | Feature |
+|---|---|
+| Define, store, and regularly update recovery plans — codify in dynamic, executable runbooks; recover 20% faster | Dynamic, automated runbooks |
+| Coordinate and communicate seamlessly — executable runbooks + in-built communications make mobilizing faster | Dynamic, automated runbooks |
+| Move to unannounced testing — reduced prep time enables more realistic tests | Dynamic, automated runbooks |
+| Measuring RTOs against RTAs — import RTOs, automatically calculate and track RTAs | Reporting and analytics dashboards |
+| Post-event analytics — reduce audit prep time by 60%; indelible audit trail for continuous improvement | Reporting and analytics dashboards |
+| Optimize disaster recovery with automation — integrate with ITSM, BCM; execute tests with automation, reducing execution time by 50% | Integration Suite and automation |
+
+---
+
+## Proof Points (Use these specific stats in blogs)
+
+| Stat | Context |
+|---|---|
+| 50% reduction in execution time | IT DR and cyber recovery |
+| 70% less time in test prep and execution | IT DR testing |
+| Reduce testing time from 12 weeks to 2 | IT DR testing efficiency |
+| 60% increase in audit efficiency | Compliance and reporting |
+| 300% improvement in resilience efficiency | Overall resilience |
+| 309% average ROI | Cutover customers broadly |
+| 80% reduction in event planning and execution time | Resilience use cases |
+| 20% faster recovery | Runbook-based recovery planning |
