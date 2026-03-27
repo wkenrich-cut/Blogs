@@ -2,7 +2,7 @@ Here’s a **clean, merged version** of both SKILL files — unified into a sing
 
 ---
 
-# **Cutover Content & SEO Writing Skill (Merged)**
+# **Cutover Content & SEO Writing Skill**
 
 ## **Purpose**
 
