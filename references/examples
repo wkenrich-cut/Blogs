@@ -1,1 +1,170 @@
+# Cutover Blog Examples Reference
 
+Use this file to match the tone, structure, hook style, and writing patterns of published and approved Cutover content. Before writing any blog, review the most relevant example(s) below and mirror their approach.
+
+---
+
+## What to learn from these examples
+
+- **Hooks**: Open with a provocation, analogy, or question — never a definition
+- **Sentence length**: Short, punchy sentences dominate. Two to three sentences per paragraph max
+- **Subheadings**: Descriptive, often bold statements — not dry labels
+- **Analogies**: Used freely to make complex IT concepts human and memorable
+- **First person / we**: Cutover blogs often use "we" and speak with authority, not distance
+- **No hedging**: Statements are direct and confident — "AI will not...", not "AI may potentially..."
+- **Thought leadership tone**: Lead with an opinion or insight, then back it with logic
+- **CTAs and links**: Woven naturally into the narrative, not bolted on at the end
+
+---
+
+## Example 1: Agentic AI in Major Incident Management
+
+**Source**: Video script / blog content — Ky Nichol, CEO
+**Topic**: Why generic AI fails in major incident management, and what's needed to make it work
+**Audience**: Head of Infrastructure & Ops, CISO, CIO
+
+### Hook (use this pattern)
+> "You wouldn't hire a brand-new SRE and ask them to lead a critical outage call on their very first day, right? That would be a disaster. So, why do we assume we can just drop a generic AI model into a major IT incident and expect magic?"
+
+**What works**: Opens with a relatable analogy, immediately frames the tension, then lands the thesis in one sentence. No throat-clearing.
+
+### Structure pattern
+Numbered challenges work well for technical thought leadership:
+1. **Challenge framing**: State the problem plainly — "There is no 'one-size-fits-all' data"
+2. **The insight**: Explain *why* this matters — enterprise IT estates are "snowflakes"
+3. **The implication**: What this means for AI adoption in the enterprise
+4. **The solution direction**: Where Cutover fits — without being a sales pitch
+
+### Memorable phrases to draw from
+- *"Every enterprise's IT estate is a snowflake."*
+- *"Vendors should ask for a teaspoon of water, not the entire ocean."*
+- *"The workflow is the real runbook."*
+- *"Trust but verify."*
+- *"AI in Assistive Mode — it proposes, humans approve."*
+- *"The goal isn't to replace the incident manager. The goal is to build an AI co-pilot."*
+- *"Done right, this means fewer outages and faster recovery. And that is a vision of resilience worth chasing."*
+
+### Key ideas (reusable in blogs)
+- Generic LLMs trained on public internet don't know your architecture, legacy code, or internal acronyms — **enterprise-specific context is everything**
+- Incident history and tribal knowledge are a "moat" — valuable and sensitive
+- Logs and metrics are just raw data; AI needs **situational awareness** — the graph of past decisions
+- Managing a live incident purely through a chat interface is underwhelming — you need a **visual map, a state machine**
+- Fortune 500 companies will not send their "crown jewels" (incident databases) to third-party black boxes
+- AI autonomy must be earned — start with guardrails, build trust, expand gradually
+
+---
+
+## Example 2: The Right to Win in the Age of AI
+
+**Source**: Internal positioning paper — Ky Nichol, CEO
+**Topic**: Why Cutover has a structural advantage in the AI/agentic era
+**Audience**: C-suite, CIO, strategic buyers
+
+### Thesis (use this pattern)
+> "The next frontier of competitive advantage for enterprises isn't training AI models on what the world has written — the real competitive advantage lies in enabling your organization to *do things* with AI."
+
+**What works**: Reframes the AI conversation from "what AI knows" to "what AI can execute." This is Cutover's core differentiation — use it.
+
+### The four "right to win" reasons (reusable framing)
+1. **Independent orchestration layer** — agnostic to whether a task is human, automated, or agentic; provides verification, governance, audit
+2. **Constrained data access** — only consume enterprise data at the point of execution
+3. **Rare training tokens** — captures graph-structured operational knowledge that doesn't exist in logs or tickets; foundation models can't scrape or synthesize it
+4. **Technology operations variability** — major incidents and recoveries are inherently variable; "using ServiceNow ITSM tickets for major incident orchestration is like using a train schedule to navigate a hurricane"
+
+### Key phrases (use these in blogs)
+- *"The coming AI/agentic era will not be defined by an information problem. It will be defined by orchestration problems."*
+- *"Using a train schedule to navigate a hurricane."* (contrast between static ITSM tools and dynamic incident management)
+- *"Dark matter of the organization"* — tacit operational knowledge that exists nowhere in structured form
+- *"Mission control architecture"*
+- *"Bridge the gap between intent and execution"*
+- *"Turning dark operational data into structured, orchestrateable workflows"*
+- *"Reducing MTTR represents a massive opportunity, yet it's a metric that's historically resistant to improvement."*
+
+### Structure pattern
+- Open with the industry assumption everyone holds
+- Flip it with Cutover's contrarian view
+- Give 3–4 numbered reasons why Cutover wins
+- Close with a forward-looking vision statement
+
+---
+
+## Example 3: The DR Onboarding Problem — Cutover AI
+**URL**: https://cutover.com/blog/dr-onboarding-problem-cutover-ai
+**Topic**: How Cutover AI solves the time-consuming problem of getting disaster recovery runbooks up and running
+**Audience**: Head of Resilience, Head of Infrastructure & Ops
+
+### What to replicate
+- Lead with the pain, not the product: "The onboarding problem is real — getting teams from a spreadsheet to a live runbook takes weeks, not days"
+- Use the problem as the hook, then introduce the solution mid-way
+- Keep product references functional and specific — what does it actually *do*, step by step
+- End with a forward-looking outcome: what the reader can achieve, not just what the product does
+
+---
+
+## Example 4: Resilience Engine — AI-Powered Major Incident Management
+**URL**: https://cutover.com/blog/resilience-engine-ai-powered-major-incident-management-enterprise-it
+**Topic**: How AI changes the major incident management playbook for enterprise IT
+**Audience**: Head of Infrastructure & Ops, CISO, Major Incident Managers
+
+### What to replicate
+- Frame AI not as a replacement for human judgment but as a **force multiplier**
+- Use the "co-pilot" framing: AI handles the grunt work (log triage, status updates, comms), humans handle the strategy
+- Contrast the old way (manual, chaotic, reactive) with the new way (structured, orchestrated, AI-assisted)
+- Tie back to a concrete metric: MTTR reduction is the north star
+
+---
+
+## Example 5: People, Technology — Finding the Right Balance in AI-Driven Incident Management
+**URL**: https://cutover.com/blog/people-technology-finding-right-balance-ai-driven-incident-management
+**Topic**: The human-AI balance in incident management — when to automate, when to keep humans in the loop
+**Audience**: Major Incident Managers, CIO, Head of Ops
+
+### What to replicate
+- Acknowledge the tension openly: AI is powerful, but full autonomy in a live outage is dangerous
+- Use the "Assistive Mode → Supervised Autonomy → Full Autonomy" progression as a structure
+- Validate the reader's concern (loss of control, black-box decisions) before offering the answer
+- The resolution: **humans stay in the loop**, AI earns trust incrementally
+- Close with an empowering message: this isn't about replacing your team, it's about making them better
+
+---
+
+## Tone and Style Patterns — Distilled
+
+### Openings that work (use these patterns)
+| Pattern | Example |
+|---|---|
+| Analogy hook | "You wouldn't hire a brand-new SRE to lead a critical outage on day one. So why do we assume generic AI can?" |
+| Contrarian statement | "The next competitive advantage in AI isn't about what models know. It's about what your organization can *do*." |
+| Problem statement | "Getting disaster recovery runbooks off a spreadsheet and into production takes weeks. It shouldn't." |
+| Industry assumption flip | "Everyone is talking about AI training data. We think they're asking the wrong question." |
+
+### Closings that work
+- End with a forward-looking vision, not a summary
+- The last sentence should leave the reader feeling something — aspiration, urgency, or clarity
+- Examples:
+  - *"Done right, this means fewer outages and faster recovery. And that is a vision of resilience worth chasing."*
+  - *"We don't just help you adopt AI — we help you control it."*
+  - *"The gap between intent and execution is where outages live. Cutover closes it."*
+
+### Things these examples never do
+- Never open with "In today's fast-paced world..."
+- Never use passive voice for key claims
+- Never save the main point for the end — lead with it
+- Never describe Cutover as a "project management" or "workflow" tool
+- Never use corporate buzzwords: "synergy," "leverage" (as a verb), "circle back," "touch base"
+- Never make a claim without grounding it in a real scenario or proof point
+
+---
+
+## Reusable Analogies Bank
+
+| Analogy | Use for |
+|---|---|
+| "You wouldn't hire a brand-new SRE to lead a critical outage on day one" | Why generic AI fails in live incidents |
+| "Using a train schedule to navigate a hurricane" | Why static ITSM tools fail in dynamic incident management |
+| "A teaspoon of water, not the entire ocean" | Why AI agents should have constrained, minimal data access |
+| "Every enterprise IT estate is a snowflake" | Why generic LLMs lack enterprise context |
+| "Incident history is a moat" | Why proprietary operational data is valuable and must be protected |
+| "Mission control architecture" | Cutover's role in orchestrating human + AI + automation |
+| "Dark matter of the organization" | Tacit operational knowledge that exists nowhere in structured form |
+| "AI co-pilot" | AI handles grunt work, humans handle strategy — not replacement, augmentation |
